@@ -4,7 +4,7 @@ Initial code was given with a few small flaws. Code was cleaned up and reformatt
 
 ## finished product
 
-![alt text](http://url/to/img.png)
+![Homework Screenshot](assets/images/Horiseo.png)
 
 
 
