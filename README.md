@@ -14,5 +14,5 @@ https://iandarland.github.io/Refactoring-Company-hw-01/
 
 ## Link to Clone
 
-``` git@github.com:iandarland/Refactoring-Company-hw-01.git ```
+``` https://github.com/iandarland/Refactoring-Company-hw-01.git ```
 
